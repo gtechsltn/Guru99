@@ -6,7 +6,10 @@ Happy New Year 2025!
 https://github.com/gtechsltn/Guru99/blob/master/Guru99.pdf
 
 ## Full Stack Engineer
+
 Politetech Software · Vietnam (Remote)
+
+https://politetechsoftware.com/
 
 ## (REMOTE) Middle Full-Stack Developer
 Qlay · Vietnam (Remote)
